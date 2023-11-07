@@ -5,6 +5,7 @@ const repoCount = 50
 
 //string interpolation
 //ye humlog isliye use krte h taki humolog different methods use kar sake name and repocount
+//new syntax as + karke pehle likha jata tha
 console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);
 
 const gameName = new String('hitesh-hc-com')  //another method of creating string
